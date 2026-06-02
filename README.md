@@ -27,15 +27,19 @@ This is my 5 layer encryption algorithm. This algorthem uses 5 layers of encrypt
 * run the program localy or on a server
 
 #### Run command
+
 ```
 python app.py
 ```
 
 ## Help
 
+* Port 5000 already in use: Run flask run -p 5001 to use a different port.
+* Missing dependencies error: Ensure your virtual environment is active before running the install command.
+
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+python app.py --help
 ```
 
 ## Authors
@@ -59,6 +63,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
+* Inspired by classic multi-layered cipher architecture.
+* Built using the TempeHS Python Flask template.
