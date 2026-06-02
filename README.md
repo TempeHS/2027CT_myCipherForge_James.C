@@ -1,4 +1,4 @@
-# Project Title
+# SES
 
 Simple Encryption system (SES)
 
