@@ -38,7 +38,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 James clerke de Thame
-ex. [@benpaddlejones](https://github.com/benpaddlejones)
+ex. [@chargedvessel26](https://github.com/chargedvessel26)
 
 ## Version History
 
