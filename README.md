@@ -1,10 +1,10 @@
 # Project Title
 
-Simple overview of use/purpose.
+Simple Encryption system (SES)
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This is my 5 layer encryption algorithm. This algorthem uses 5 layers of encrypton to encrypt text data.
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Mr Jones
+James clerke de Thame
 ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## Version History
@@ -50,7 +50,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE.md file for details
 
 ## Acknowledgments
 
