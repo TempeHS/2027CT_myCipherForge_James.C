@@ -10,20 +10,25 @@ This is my 5 layer encryption algorithm. This algorthem uses 5 layers of encrypt
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Dependencies
+* Windows 10 / 11, macOS, or Linux
+* Python 3.8 orhigher
+* Flask 2.0 or higher (for the web interface)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Clone the repository from GitHub.
+* Navigate to the project root directory.
+* Install the required Python packages using pip.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Enter the programy in python
+* run the program localy or on a server
+
+#### Run command
 ```
-code blocks for commands
+python app.py
 ```
 
 ## Help
