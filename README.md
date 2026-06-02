@@ -1,6 +1,6 @@
-# SES
+# Simple Encryption system (SES)
 
-Simple Encryption system (SES)
+Simple 5 layer encryption sytem Encryption system (SES)
 
 ## Description
 
